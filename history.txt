@@ -1,0 +1,5 @@
+
+Operation{num1=2.0, num2=3.0, result=6.0, type='mult'}
+Operation{num1=8.0, num2=2.0, result=4.0, type='div'}
+Operation{num1=5.0, num2=7.0, result=12.0, type='sum'}
+Operation{num1=99.0, num2=67.0, result=32.0, type='sub'}
